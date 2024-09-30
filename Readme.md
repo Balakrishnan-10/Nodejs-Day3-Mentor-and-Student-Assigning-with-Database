@@ -2,7 +2,7 @@
 
 ## Backend Deployment:
 
-## Render.com URL : https://nodejs-day3-mentor-and-student-assigning.onrender.com/
+## Render.com URL : https://nodejs-day3-mentor-and-student-assigning.onrender.com
 
 ### Base URL :  http://localhost:5000/
 
