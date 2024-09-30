@@ -1,10 +1,12 @@
 ## Backend : NodeJS - Mentor and Student Assigning with Database :
 
-## Backend Deployment: Render.com
+## Backend Deployment:
+
+## Render.com URL : https://nodejs-day3-mentor-and-student-assigning.onrender.com
 
 ### Base URL :  http://localhost:5000/
 
-### API Doucmentation Link :
+### API Doucmentation Link : https://documenter.getpostman.com/view/34153837/2sAXqzXJjG
 
 ### Endpoints are created this criteria:
 
