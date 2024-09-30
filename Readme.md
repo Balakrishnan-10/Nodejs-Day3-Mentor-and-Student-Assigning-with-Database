@@ -6,7 +6,7 @@
 
 ### Base URL :  http://localhost:5000/
 
-### API Doucmentation Link : 
+### API Doucmentation Link : https://documenter.getpostman.com/view/34153837/2sAXqzXJjG
 
 ### Endpoints are created this criteria:
 
